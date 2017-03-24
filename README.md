@@ -2,7 +2,7 @@
 
 A port of the [Solarized Light](http://ethanschoonover.com/solarized) color scheme for [Hyper.app](https://hyper.is/)
 
-![Solarized Light Hyper](https://dl.dropboxusercontent.com/u/29130579/hyperterm-solarized-light.png)
+![Solarized Light Hyper](https://raw.githubusercontent.com/Address-Base/hyper-solarized-light/master/hyper-solarized-light.png)
 
 ### Installation
 1. Open HyperTerm's preferences by pressing `Cmd + ,`.
