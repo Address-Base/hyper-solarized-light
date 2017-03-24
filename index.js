@@ -1,11 +1,11 @@
-const backgroundColor = '#fdf6e3'
+const backgroundColor = 'rgba(253, 246, 226, 0.9)'
 const foregroundColor = '#839496'
 const cursorColor = 'rgba(211, 54, 130, 0.6)'
 const borderColor = 'rgba(38, 139, 210, 0.3)'
 
 const colors = [
   backgroundColor,
-  '#dc322f', // red
+  '#E60000', // red
   '#859900', // green
   '#b58900', // yellow
   '#268bd2', // blue
@@ -13,7 +13,7 @@ const colors = [
   '#2aa198', // cyan
   '#657b83', // light gray
   '#586e75', // medium gray
-  '#dc322f', // red
+  '#990000', // red
   '#859900', // green
   '#b58900', // yellow
   '#268bd2', // blue
@@ -80,4 +80,3 @@ exports.decorateConfig = config => {
     `
   })
 }
-
